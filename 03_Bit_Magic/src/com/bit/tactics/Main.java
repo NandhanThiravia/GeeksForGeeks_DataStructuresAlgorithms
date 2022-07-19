@@ -26,8 +26,8 @@ public class Main {
 //		ArrayList<Integer> list = obj.findTwoOddOccurring(array);
 //		System.out.println(list);
 
-//		String word = "nandhan";
-//		System.out.println(obj.combinations(word));
+		String word = "abc";
+		System.out.println(obj.combinations(word));
 
 //		int number = 6636;
 //		obj.printBinaryForm(number);
@@ -240,7 +240,6 @@ public class Main {
 			combinations.add(sb.toString());
 			sb.setLength(0);
 		}
-		System.out.println("Time taken is " + (System.currentTimeMillis() - start) + " ms");
 
 		return combinations;
 	}

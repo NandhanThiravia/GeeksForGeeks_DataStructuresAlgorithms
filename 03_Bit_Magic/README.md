@@ -24,3 +24,4 @@
 24. Convert Binary to Gray. (Main.binaryToGrayCode)
 25. Swap Odd and Even bits. (Main.swapOddEvenBits)
 26. Find the maximum AND pair. (Main.maxAND)
+27. Find all combinations of a string. (Main.combinations)
