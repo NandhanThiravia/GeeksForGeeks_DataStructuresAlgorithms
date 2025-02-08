@@ -1,4 +1,4 @@
-package com.countdigits;
+package in_01.countdigits;
 
 import java.io.BufferedReader;
 import java.io.IOException;
